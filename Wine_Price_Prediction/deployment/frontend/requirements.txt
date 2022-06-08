@@ -1,0 +1,8 @@
+streamlit
+numpy
+seaborn
+pandas
+matplotlib
+scipy
+sklearn
+feature_engine

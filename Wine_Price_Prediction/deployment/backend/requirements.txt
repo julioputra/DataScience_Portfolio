@@ -1,0 +1,10 @@
+waitress
+pandas
+numpy
+flask
+scikit-learn
+xgboost
+feature_engine
+seaborn
+scipy
+matplotlib
